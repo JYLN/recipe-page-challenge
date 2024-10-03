@@ -28,14 +28,14 @@ This challenge will help you focus on writing semantic HTML. Ensure you think th
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/recipe-page-using-tailwind-css-D-Jio2Lwd-)
-- Live Site URL: [TBD]()
+- Live Site URL: [Vercel](https://recipe-page-challenge-theta.vercel.app/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS Grid
+- CSS Flexbox
 - Mobile-first workflow
 - [TailwindCSS][tailwinddocs]
 - [Parcel](https://parceljs.org/docs) - for simple static site building
