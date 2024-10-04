@@ -28,7 +28,7 @@ This challenge will help you focus on writing semantic HTML. Ensure you think th
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/recipe-page-using-tailwind-css-D-Jio2Lwd-)
-- Live Site URL: [Vercel](https://recipe-page-challenge-theta.vercel.app/)
+- Live Site URL: [Vercel](https://jyln-recipe-page-challenge.vercel.app/)
 
 ## My process
 
